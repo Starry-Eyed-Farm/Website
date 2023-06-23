@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Stary Eyed Farm"
 permalink: /
 ---
