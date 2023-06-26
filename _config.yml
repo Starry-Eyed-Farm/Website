@@ -75,7 +75,7 @@ lang: en-US # Set the site language
 title: "Starry Eyed Farm" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "Adventures in hobby farming" # Site description and default description, also used in jekyll-seo-tag
-url: "https://starryeyedfarm.com" # Site url, also used in jekyll-seo-tag
+url: "https://starry-eyed-farm.github.io/" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/daviddarnes/alembic"
 email: "ericd@netdenizen.com"
