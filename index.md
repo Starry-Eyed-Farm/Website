@@ -1,9 +1,9 @@
 ---
-layout: blog
-title: "Stary Eyed Farm"
-permalink: /
+title: Starry Eyed Farm LLC
+feature_text: |
+  ## Starry Eyed Farm LLC
+  Our hobby farm adventure in Strafford, VT.
+feature_image: "https://picsum.photos/1300/400?image=989"
 ---
-
-## Adventures in Hobby Farming
 
 All about goats and stuff.
