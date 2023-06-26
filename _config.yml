@@ -46,7 +46,7 @@ collections:
     output: true
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
-      Welcome to the blog
+      What's going on at the farm
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
