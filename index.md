@@ -1,8 +1,8 @@
 ---
 title: Starry Eyed Farm
 feature_text: |
-  # Starry Eyed Farm
-  ## Adventures in Hobby Farming
+  # <span style="color:blue">Starry Eyed Farm</span>
+  ## <span style="color:blue">Adventures in Hobby Farming</span>
 feature_image: "two-goats2-2048x795.jpg"
 ---
 
